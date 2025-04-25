@@ -31,4 +31,4 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 1. Clonez ce dépôt ou téléchargez les fichiers :
    ```bash
    git clone https://github.com/ucieutat/ajout_filigrane_publisher.git
-   cd FiligranePublisher
+   cd ajout_filigrane_publisher
